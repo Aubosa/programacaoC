@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Criar duas carta do jogo Super Trunfo
+//Criar duas cartas do jogo Super Trunfo
 int main (){
     int população, turistico;
     float area, PIB;
